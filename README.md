@@ -4,9 +4,10 @@
 
 # v1.0.0 !
 
- > Configure server and point it to /path/to/smart_cyber/index.php
- > import cyber_smart.sql to preferred database
- > Contribute to project!!!!
+ > fork, pull or clone [cyber-smart Repository](https://github.com/kinyuajasonmuriki/cyber-smart.git) </br>
+ > Configure server and point it to /path/to/smart_cyber/index.php </br>
+ > import cyber_smart.sql to preferred database </br>
+ > Contribute to project!!!! </br>
  
  Preferred configurations
  ----
