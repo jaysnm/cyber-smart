@@ -1,0 +1,4 @@
+User mac_address authentication Failed.
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE username = 'Jasonmury'' at line 1User Details not inserted into database.
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'passcode' cannot be nullUser Details not inserted into database.
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'amount' cannot be null

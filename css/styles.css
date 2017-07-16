@@ -1,0 +1,10 @@
+.success{
+  color: green;
+  font-family: monospace, sans-serif;
+  font-size: 12pt;
+}
+.failed{
+  color: red;
+  font-size: 12pt;
+  font-family: lucida-console, taloma;
+}
